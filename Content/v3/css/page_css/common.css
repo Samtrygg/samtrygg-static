@@ -1,0 +1,107 @@
+﻿.RED {
+    color: red;
+}
+.MB10{
+    margin-bottom:10px;
+}
+.CAPITAL{
+    text-transform:capitalize;
+}
+.displayNO,.hiddenDisplay,nav#nav.top-bar.dashboard .nav-search .icon.displayNO{
+    display:none;
+}
+.WIDTH300{
+    width:300px;
+}
+.width100{
+    width:100%;
+}
+.pre-line,.white-space{
+    white-space:pre-line
+}
+.inlinelabel,.inline{
+    display: inline-block;
+}
+.FSize34 {
+    font-size: 34px;
+}
+.Width0{
+    width:0;
+}
+.block-content.tab-content.module.PAD20 {
+    padding: 20px;
+}
+.MT0,#dashboard .module .profile-form.MT0{
+    margin-top:0;
+}
+.col.medium-12.PAD0,.PAD0{
+    padding:0;
+}
+textarea.form-control.AUTOMinHeight {
+    min-height: auto;
+}
+#object-types div.FLeft,.FLeft{
+    float:left;
+}
+.form-material.floating.MT5{
+    margin-top:5px;
+}
+.PAD01520 {
+    padding: 0 15px 20px;
+}
+#dashboard .module .profile-controls.PAD015{
+    padding: 0 15px;
+}
+#dashboard .row.MB40{
+    margin-bottom:40px;
+}
+.MB50 {
+    margin-bottom: 50px;
+}
+.js-wizard-simple.block ul li i.fa.FS34 {
+    font-size: 34px;
+}
+.PAD20{
+    padding:20px;
+}
+.displayInline {
+    display: inline;
+}
+
+.borderNone {
+    border-style: none;
+}
+.transparentBackground {
+    background-color: transparent;
+}
+
+.relative {
+    position: relative;
+}
+.FSize16{
+    font-size:16px;
+}
+.auto-min-height,#dashboard .module textarea.auto-min-height{
+    min-height: auto!important;
+}
+.PL0{
+    padding-left: 0;
+}
+.colord2d1d1{
+    color:#d2d1d1;
+}
+.green {
+    color: Green;
+}
+
+.displayBLOCK {
+    display: block;
+}
+
+.MB5 {
+    margin-bottom: 5px;
+}
+
+.clearBoth {
+    clear: both;
+}

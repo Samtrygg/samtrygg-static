@@ -1,0 +1,130 @@
+﻿.ui-helper-hidden-accessible {
+    display: none;
+}
+
+img.tooltipInfo {
+    width: 25px;
+    height: 25px;
+    margin-left: 15px;
+}
+
+
+
+@@media only screen and (min-width: 992px) and (max-width: 1192px) {
+    .alert-box .alert-text {
+        width: 60%;
+    }
+}
+
+@@media only screen and (max-width: 991px) {
+    .alert-box .alert-text {
+        width: 92%;
+    }
+
+    .alert-box span.icon-notification-circle {
+        margin-top: 15px;
+    }
+
+    .alert-box .close {
+        top: 15%;
+    }
+
+    .alert-box .alert-items {
+        margin-bottom: 0;
+    }
+
+    .alert-box ul.alert-items li {
+        font-size: 16px;
+    }
+}
+
+.progress-bar-info {
+    background-color: #D8523D;
+}
+
+.js-wizard-simple.block ul li i.fa {
+    font-size: 30px;
+    color: #cecece;
+}
+
+.js-wizard-simple.block ul li.active i.fa {
+    color: #D8523D;
+}
+
+.js-wizard-simple.block ul li:hover i.fa {
+    /*color: #D8523D;*/
+}
+
+.wizard-prev, .wizard-prev:hover {
+    background-color: #5497FF !important;
+    min-width: 162.5px;
+    margin-bottom: 0;
+    font-weight: normal;
+    line-height: normal;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1rem;
+    height: 2.5rem;
+    padding: .6rem 2rem 1.0625rem;
+    color: #fff !important;
+    border-radius: 3px;
+    border: none;
+}
+
+.wizard-next,
+.wizard-finish,
+.wizard-next:hover,
+.wizard-finish:hover {
+    background-color: #D8523D !important;
+    min-width: 162.5px;
+    margin-bottom: 0;
+    font-weight: normal;
+    line-height: normal;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1rem;
+    height: 2.5rem;
+    padding: .6rem 2rem 1.0625rem;
+    color: #fff !important;
+    border-radius: 3px;
+    border: none;
+}
+
+#addPlaceButton {
+    margin-top: 10px;
+}
+
+.profileContainer {
+    width: 220px;
+    height: 220px;
+    margin: 0 auto;
+}
+
+.profileContainer img.profile-image {
+    min-height: auto !important;
+    max-height: none !important;
+    max-width: 220px !important;
+    min-width: auto !important;
+    height: 250px;
+    display: block;
+    margin: 0 auto;
+    object-fit: cover;
+}
+
+.featherlight-content #panel .profile-info .price, .featherlight-content #panel .profile-info .price .max-price {
+        color: #5A5A5A !important;
+    }
+
+
+
+#dashboard .module label.showToolTip {
+    color: #bbb;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+}
+
